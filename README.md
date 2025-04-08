@@ -1,2 +1,2 @@
-# portfolio_website
-Amazing portfolio website for all my business
+# A portfolio website
+Everything here is a placeholder so far.
