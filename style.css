@@ -9,41 +9,49 @@
 
 .ewl {
 	background-color:#009645;
-	color:white;
+	color:#ffffff;
 }
 .nsl {
 	background-color:#d42e12;
-	color:white;
+	color:#ffffff;
 }
 .nel {
 	background-color:#9900aa;
-	color:white;
+	color:#ffffff;
 }
 .ccl {
 	background-color:#fa9e0d;
-	color:black;
+	color:#2e2a25;
 }
 .dtl {
 	background-color:#005ec4;
-	color:white;
+	color:#ffffff;
 }
 .tel {
 	background-color:#9d5b25;
-	color:white;
+	color:#ffffff;
 }
 .jrl {
 	background-color:#0099aa;
-	color:white;
+	color:#ffffff;
 }
 .crl {
 	background-color:#97c616;
-	color:black;
+	color:#2e2a25;
 }
 .rts {
 	background-color:#87cefa;
-	color:white;
+	color:#ffffff;
 }
 .lrt {
-	background-color:#ffffff;
-	color:white;
+	background-color:#748477;
+	color:#ffffff;
+}
+.sgbus {
+	background-color:#93d500;
+	color:#383a37;
+}
+.mrt_water {
+	background-color:#dcebf0;
+	color:#93a9b1;
 }
